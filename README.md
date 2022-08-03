@@ -10,7 +10,7 @@ Doing competitors’ or benchmark analysis for SEO can be a burdensome task as i
 
 The purpose of this article is to help you automate the data extraction processes as much as possible. After learning how to do this, you can dedicate your time to what matters: the analysis itself and coming up with actionable insights to strategize.
 
-For a detailed explanation, see our [blog post](https://oxylabs.io/blog/how-automate-competitors-benchmark-analysis).
+For a detailed explanation, see our [blog post](https://oxy.yt/erEh).
 
 ## Using Oxylabs’ solution to retrieve the SERPs results
 
@@ -151,4 +151,4 @@ df.columns = ["URL","Metatitle SERPs", "Metatitle Onpage","Metatitle Equal", "Me
 df.to_excel('<filename>.xlsx', header=True, index=False)
 ```
 
-If you wish to find out more, see our [blog post](https://oxylabs.io/blog/how-automate-competitors-benchmark-analysis).
+If you wish to find out more, see our [blog post](https://oxy.yt/erEh).
